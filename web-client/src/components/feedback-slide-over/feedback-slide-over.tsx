@@ -17,7 +17,6 @@ export const FeedbackSlideOver = ({
   sessionId,
 }: FeedbackSlideOverProps) => {
   const [feedback, setFeedback] = useState<string>("");
-  console.log(feedback);
 
   const handleOnFeedbackChange = (text: string) => {
     setFeedback(() => text);
