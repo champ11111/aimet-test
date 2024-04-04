@@ -15,4 +15,4 @@ Before you begin, ensure you have the following:
 ### Installation and Running
 
 1. **Backend**: Follow the instructions in the [Backend Run Guide](./technical-test-frontend-mock-server-main/README.md).
-2. **Frontend**: Follow the instructions in the [Frontend Run Guide](./technical-test-frontend-main/README.md).
+2. **Frontend**: Follow the instructions in the [Frontend Run Guide](./web-client//README.md).
